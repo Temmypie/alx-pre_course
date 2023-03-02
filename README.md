@@ -1,1 +1,1 @@
-My first readme
+This ALX is now making sense to me. thank God
